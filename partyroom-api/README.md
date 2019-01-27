@@ -12,6 +12,3 @@
 	* cd to your project folder.
 	* type npm install to initialize and download all packages needed.
 	* type nodemon src/server.js to start the server.
-
-If your IP is on the mongodb cluster and server running then it will look something like this:
-	![Commandline when running api](Pic.jpg)
